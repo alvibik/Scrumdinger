@@ -2,7 +2,7 @@
 //  Theme.swift
 //  Scrumdinger
 //
-//  Created by albik on 24.01.2023.
+//  Created by albik on 26.01.2023.
 //
 
 import SwiftUI
@@ -40,5 +40,5 @@ enum Theme: String, CaseIterable, Identifiable {
     var id: String {
         name
     }
-    
 }
+
